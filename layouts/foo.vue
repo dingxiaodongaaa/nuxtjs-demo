@@ -1,13 +1,13 @@
 <template>
   <div>
-    <h1>Hello Nuxt.js!</h1>
+    <h1>layouts/foo.vue 组件</h1>
+    <nuxt/>
   </div>
 </template>
 
 <script>
 export default {
-  name: "HomePage",
-  layout: "foo"
+  name: "foo"
 }
 </script>
 
