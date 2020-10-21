@@ -1,0 +1,51 @@
+{
+	"responseTime": "2020-06-17 15:51:15",
+	"sysCode": 200,
+	"sysMessage": null,
+	"message": "操作成功",
+	"code": 200,
+	"title": "dist 数据",
+	"h1": "后端维护的常量数据",
+	"posts": [
+		{
+			"id": 1,
+			"code": "01",
+			"name": "员工状态",
+			"parentId": 0,
+			"sequenceNo": 1,
+			"memo": ""
+		},
+		{
+			"id": 2,
+			"code": "0101",
+			"name": "试用",
+			"parentId": 1,
+			"sequenceNo": 2,
+			"memo": ""
+		},
+		{
+			"id": 3,
+			"code": "0102",
+			"name": "正式",
+			"parentId": 1,
+			"sequenceNo": 3,
+			"memo": ""
+		},
+		{
+			"id": 4,
+			"code": "02",
+			"name": "员工类型",
+			"parentId": 0,
+			"sequenceNo": 4,
+			"memo": ""
+		},
+		{
+			"id": 5,
+			"code": "1",
+			"name": "全职",
+			"parentId": 4,
+			"sequenceNo": 5,
+			"memo": ""
+		}
+	]
+}

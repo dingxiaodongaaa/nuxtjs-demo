@@ -8,6 +8,7 @@
   "author": "dingxd <dingxiaodongaaa@163.com> (https://github.com/dingxiaodongaaa)",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.20.0",
     "nuxt": "^2.14.7"
   }
 }
