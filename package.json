@@ -1,0 +1,13 @@
+{
+  "name": "nuxtjs-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "author": "dingxd <dingxiaodongaaa@163.com> (https://github.com/dingxiaodongaaa)",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^2.14.7"
+  }
+}
